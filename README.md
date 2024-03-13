@@ -1,7 +1,7 @@
 หน้า Login
 ![Login](https://github.com/toomtarm007/flutter_node_store/assets/77319603/8e9b6022-7be8-4de1-b143-573aac58d1e1)
 
-หน้าแดชบอร์ด
+หน้า Profile
 ![Myprofile](https://github.com/toomtarm007/flutter_node_store/assets/77319603/6615b1d1-929f-4e89-a8f5-4b31680a5f37)
 
 แสดงรายการสินค้า
